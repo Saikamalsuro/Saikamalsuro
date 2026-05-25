@@ -44,7 +44,7 @@
 </div>
 
 🎓 **B.Tech CSD** @ Aditya Institute of Technology (CGPA: 8.4) <br/>
-💻 **AI/ML Engineer Intern** @ UniqueHire <br/>
+💻 **AI/ML Developer Intern** @ UniqueHire <br/>
 ☁️ **AWS Certified Cloud Practitioner** <br/>
 🌱 Currently exploring **LangGraph, MCP, Edge AI** <br/>
 🔭 Building **RAG-powered AI systems** & real-time platforms <br/>
