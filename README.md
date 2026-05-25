@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Saikamal%20Suro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Practitioner&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Saikamal%20Suro&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Practitioner&descAlignY=60&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer+%F0%9F%A4%96;GenAI+%26+RAG+Enthusiast+%F0%9F%A7%A0;Building+the+future+with+code+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Aspiring+AI%2FML+Developer+%F0%9F%A4%96;GenAI+%26+RAG+Enthusiast+%F0%9F%A7%A0;Building+the+future+with+code+%E2%9A%A1" alt="Typing SVG" />
 
 <br/>
 
